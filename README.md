@@ -6,4 +6,5 @@ Online gaming platform, where games can be published permission-less way. Player
 ## Core Principles
 * **Permission-less** - Game developer don't need permission from authority to publish the game on the platform.
 * **Immutable** - Published games are immutable, game developer can only publish new version.
-* **Online** - Platform is focused on online games and provides all necessary tooling for it out of the box.
+* **Online** - Platform is focused on online games and provides all necessary tooling out of the box.
+* **Anonymity** - Both player and game publisher can be anonymus.
