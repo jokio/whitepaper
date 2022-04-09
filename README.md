@@ -1,5 +1,5 @@
 # Introduction
-**Jokio** - [/ˈdʒəʊkjəʊ/](http://ipa-reader.xyz/?text=ˈdʒəʊkjəʊ), pronounced jokyo. _It's like Tokyo just "T" replaced with "J"_
+**Jokio** - [/ˈdʒəʊkjəʊ/](http://ipa-reader.xyz/?text=ˈdʒəʊkjəʊ), pronounced jokyo. *It's like Tokyo just "T" replaced with "J"*
 
 Online gaming platform, where games can be published permission-less way. Players and Game Developers can be anonymous.
 
@@ -9,7 +9,3 @@ Online gaming platform, where games can be published permission-less way. Player
 * **Online** - Platform is focused on online games and provides all necessary tooling out of the box.
 * **Anonymity** - Both player and game publisher can be anonymus.
 * **Decentralized** - Game data will be stored in the Blockchain (L1), all facts - in IPFS.
-
-
-## Identity
-Player's identity will be defined by the `nickname` and the `avatar`. 
