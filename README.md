@@ -8,4 +8,4 @@ Online gaming platform, where games can be published permission-less way. Player
 * **Immutable** - Published games are immutable, game developer can only publish new version.
 * **Online** - Platform is focused on online games and provides all necessary tooling out of the box.
 * **Anonymity** - Both player and game publisher can be anonymus.
-* **Decentralized** - Game data will be stored in the Blockchain, all facts - in IPFS.
+* **Decentralized** - Game data will be stored in the Blockchain (L1), all facts - in IPFS.
